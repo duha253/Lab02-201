@@ -15,7 +15,7 @@ function myName (){
   } else {
     alert('welcom');
   }
-} 
+}
 myName();
 
 
@@ -64,7 +64,7 @@ function myCar (){
   } else {
     alert('welcom');
   }
-} 
+}
 myCar();
 
 
@@ -106,8 +106,9 @@ function favNum (){
     } else {
       alert('welcom ');
     }
-  //console.log(guess);
   }
+  alert(`my favorite number is ${theNum} `);
+
 }
 favNum();
 
@@ -131,6 +132,7 @@ function favFood () {
       break;
     }
   }
+  alert(`my favorite food is ${foodNames} `);
 }
 favFood();
 
