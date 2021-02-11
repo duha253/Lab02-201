@@ -1,0 +1,35 @@
+
+        header img{
+            width: 100px;
+            height: 50px;
+        }
+        h1 {
+            background-color:azure ;
+            color: powderblue;
+        } 
+
+        main p{
+                font-style: italic;
+            } 
+       
+        #p1 {color: darkred;}
+        #p2 {color: brown;}
+
+        nav ul li{
+            color: darkgreen;
+        }
+
+        ol li{
+            color: rgb(3, 22, 22);
+            font-size: larger;
+
+        }
+
+        .list1{
+            border-collapse: collapse;
+            border:solid darkred 2px;
+        }
+        .par{
+            font-size: medium;
+            font-style: normal;
+        }
